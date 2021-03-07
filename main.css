@@ -23,6 +23,12 @@
   cursor: pointer;
 }
 
+._2tNSjbBZ3Bpdzsvm8uxqT9._2F58OV8F03RNSc5KuN8RHG {
+  color: var(--secondary);
+  background-color: var(--primary);
+  cursor: pointer;
+}
+
 .uXHh-VPjLxHDc_vhV7-Vz {
   padding-bottom: 20px;
   display: flex;
@@ -406,6 +412,80 @@
   }
 }
 
+._2UgArQo5T_9EjaT_S5eXui {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+._2UgArQo5T_9EjaT_S5eXui > thead > tr > th {
+  font-weight: 700;
+  color: #5f6060;
+  font-size: 18px;
+}
+
+._2UgArQo5T_9EjaT_S5eXui > thead > tr {
+  border: 1px solid #f1f3f8;
+}
+
+._2UgArQo5T_9EjaT_S5eXui > thead > tr,
+._2UgArQo5T_9EjaT_S5eXui > tbody > tr > td,
+._2UgArQo5T_9EjaT_S5eXui > thead > tr > th {
+  border-bottom: 1px solid #f1f3f8;
+  padding-left: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+._2UgArQo5T_9EjaT_S5eXui > tbody > tr:hover {
+  background-color: #f5f7fa;
+  transition: all 0.3s linear;
+}
+
+._3RBJR590Br_ixbQzhnjWgs {
+  margin-bottom: 15px;
+}
+
+.echVPmq6xTms-d3K81G3P {
+  background-color: var(--secondary);
+  color: var(--primary);
+  cursor: pointer;
+  padding: 0px 18px;
+  width: 100%;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.3s;
+  border: 1px solid var(--primary);
+  border-radius: 10px;
+}
+
+._2di21ACjHzOh-GoQ-90fTJ,
+.echVPmq6xTms-d3K81G3P:hover {
+  background-color: var(--primary);
+  color: var(--secondary);
+  border: 1px solid var(--secondary);
+}
+
+._2di21ACjHzOh-GoQ-90fTJ {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+._2DWZ8vPN2UJVK6uFyHVvxL {
+  padding: 0px;
+  background-color: white;
+  height: 0;
+  overflow: hidden;
+}
+
+._2DWZ8vPN2UJVK6uFyHVvxL._2cfvXULaVZKoMQeXIk2Icj {
+  padding: 10px 40px;
+  height: fit-content;
+  border: 1px solid var(--secondary);
+  border-top: 0px;
+}
+
 ._3zefCANY5gPdjLxf6yWTk3 {
   width: 100%;
   display: flex;
@@ -432,6 +512,143 @@
 
 ._2wBurJjVn6sqB-DuL4T6ad > div {
   width: 400px;
+}
+
+._3apdm0Nj6EuuEkwNPJVoxN {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+._3apdm0Nj6EuuEkwNPJVoxN > h1 {
+  font-size: 6em;
+  margin: 0px;
+}
+
+._3apdm0Nj6EuuEkwNPJVoxN > h3 {
+  font-size: 1.75em;
+  margin: 0px;
+}
+
+._3apdm0Nj6EuuEkwNPJVoxN > p {
+  padding-left: 20px;
+  text-align: center;
+  padding-right: 20px;
+}
+
+._1MyRjEHn9mAN5T3fEJmecn {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+._1MyRjEHn9mAN5T3fEJmecn > h1 {
+  font-size: 6em;
+  margin: 0px;
+}
+
+._1MyRjEHn9mAN5T3fEJmecn > h3 {
+  font-size: 1.75em;
+  margin: 0px;
+}
+
+._1MyRjEHn9mAN5T3fEJmecn > p {
+  padding-left: 20px;
+  text-align: center;
+  padding-right: 20px;
+}
+
+._2KhaCAot1scPyFY-pMZcBr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+._2KhaCAot1scPyFY-pMZcBr > button {
+  min-width: 60px;
+  margin-left: 5px;
+}
+
+._1miK9-3E1cB49gOjqFrWeK > h4 {
+  margin: 0px;
+}
+
+._1miK9-3E1cB49gOjqFrWeK > ._2AsYDZ5YBgMPX8JSLt1iJE {
+  margin-top: 0px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--secondary);
+}
+
+._371U73l2af9Vm5nL9-JoJF {
+  display: flex;
+  justify-content: space-between;
+}
+
+._371U73l2af9Vm5nL9-JoJF > button {
+  width: 240px;
+  margin-bottom: 10px;
+}
+
+._2TSXnwQyMBeyMpJ5cfyp37 {
+  color: #54b07d;
+}
+
+.j3qUkLluiqfACsiZXsb1q {
+  color: #f0a810;
+}
+
+._36NubypqEPg2KQ_dtP9Ebs {
+  color: #c84513;
+}
+
+._2TSXnwQyMBeyMpJ5cfyp37,
+.j3qUkLluiqfACsiZXsb1q,
+._36NubypqEPg2KQ_dtP9Ebs {
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 600px) {
+  ._371U73l2af9Vm5nL9-JoJF {
+    flex-direction: column;
+  }
+}
+
+._3tsrhQQmmrqvnhSaWLdtnm {
+  border-bottom: 1px solid var(--secondary);
+  padding-bottom: 20px;
+}
+
+.mmWCWr5r-IeyJfnxN4U6j {
+  margin-bottom: 10px;
+}
+
+._188wSJP8J4UM-Ja3OHV06T {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.mmWCWr5r-IeyJfnxN4U6j > div {
+  width: 180px;
+  padding: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+  ._188wSJP8J4UM-Ja3OHV06T {
+    flex-direction: column;
+  }
+  ._188wSJP8J4UM-Ja3OHV06T > button {
+    margin-top: 10px;
+  }
+
+  .mmWCWr5r-IeyJfnxN4U6j > div {
+    width: 100%;
+  }
 }
 
 :root {
